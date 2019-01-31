@@ -1,0 +1,5 @@
+@ECHO OFF
+FOR %%i IN (%1 %2 %3 )DO ECHO %%i
+REM  08.BAT JPG GIF BMP 
+REM LISTA DE ARGUMENTOS
+FOR %%C IN (cls dir chkdsk)DO %%C

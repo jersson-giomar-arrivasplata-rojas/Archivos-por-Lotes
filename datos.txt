@@ -1,0 +1,6 @@
+MS-DOS Y SO
+Extensiones de programas: 
+.COM
+.BAT
+.EXE
+Sin duda alguna, el más famoso de los archivos de tratamientos por lotes es el conocido "AUTOEXEC.BAT", el primer archivo que el sistema operativo MS-DOS busca tras la carga del archivo de "CONFIG.SYS". De su adecuada configuración dependerá la correcta puesta en marcha de nuestro equipo.

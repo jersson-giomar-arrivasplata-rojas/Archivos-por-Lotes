@@ -1,0 +1,3 @@
+TIME
+DATE
+::DIR /S
